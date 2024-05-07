@@ -1,5 +1,4 @@
 #define CATCH_CONFIG_MAIN
-#include "../src/main.cpp"
 #include "../src/Graph.h"
 #include "../src/Graph.cpp"
 #include "catch.hpp"
